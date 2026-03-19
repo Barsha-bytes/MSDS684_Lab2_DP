@@ -32,7 +32,3 @@ The quiver plot uses vectors (arrows) to show the **Optimal Policy ($\pi^*$)**. 
 
 
 
-## 🛠️ Installation & Usage
-1. **Clone the repo:**
-   ```bash
-   git clone [https://github.com/Barsha-bytes/MSDS684_Lab2_DP.git](https://github.com/Barsha-bytes/MSDS684_Lab2_DP.git)
